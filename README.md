@@ -104,11 +104,11 @@ Visit: `http://localhost:8080`
 ## 👤 Default Login (Seeded)
 
 ```text
-Email: admin@example.com
-Password: password
+Email: employee@metiz.com
+Password: 123456
 ```
 
-_You can change these in `UserSeeder.php`._
+_You can change these in `EmployeeSeeder.php`._
 
 ---
 
