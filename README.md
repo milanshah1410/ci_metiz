@@ -79,6 +79,9 @@ php spark serve
 
 Visit: `http://localhost:8080`
 
+**Default Employee Login:  **
+Email : employee@metiz.com 
+Password : 123456
 ---
 
 ## 🧪 Useful Spark Commands
