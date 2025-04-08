@@ -16,6 +16,7 @@ A web-based Leave Management System built using CodeIgniter 4. It supports emplo
 - Admin Panel (optional)
 - Flash Message Alerts
 - jQuery Client-Side Validation
+- Tailwind CSS
 
 ---
 
